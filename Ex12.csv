@@ -1,0 +1,5 @@
+shape,Cx,Cy,r,color,X,Y,width,height
+circle,250,250,50,purple, , , , 
+rect, , , ,red,20,20,200,100
+circle,50,50,10,blue, , , , 
+rect, , , ,green,100,10,50,25
