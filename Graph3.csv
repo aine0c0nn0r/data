@@ -1,0 +1,215 @@
+﻿name,code,deaths
+Cook Islands,COK,0
+Falkland Islands,FLK,0
+Macao,MAC,0
+Marshall Islands,MHL,0
+Micronesia (country),FSM,0
+Saint Helena,SHN,0
+Samoa,WSM,0
+Tonga,TON,0
+Vatican,VAT,0
+Saint Pierre and Miquelon,SPM,1
+Vanuatu,VUT,1
+Montserrat,MSR,2
+Bhutan,BTN,6
+Palau,PLW,6
+Wallis and Futuna,WLF,7
+Anguilla,AIA,9
+Kiribati,KIR,11
+Cayman Islands,CYM,17
+Greenland,GRL,19
+Faeroe Islands,FRO,28
+Bonaire Sint Eustatius and Saba,BES,31
+Turks and Caicos Islands,TCA,36
+Burundi,BDI,38
+Saint Kitts and Nevis,KNA,42
+Monaco,MCO,51
+New Zealand,NZL,56
+Dominica,DMA,57
+British Virgin Islands,VGB,62
+Iceland,ISL,65
+Sao Tome and Principe,STP,72
+Liechtenstein,LIE,78
+Isle of Man,IMN,80
+Gibraltar,GIB,101
+Eritrea,ERI,103
+Saint Vincent and the Grenadines,VCT,106
+Solomon Islands,SLB,106
+San Marino,SMR,112
+Central African Republic,CAF,113
+Bermuda,BMU,123
+Sierra Leone,SLE,125
+Tajikistan,TJK,125
+Brunei,BRN,129
+Timor,TLS,129
+Antigua and Barbuda,ATG,135
+South Sudan,SSD,137
+Andorra,AND,151
+Comoros,COM,160
+Benin,BEN,163
+Seychelles,SYC,163
+Guinea-Bissau,GNB,167
+Equatorial Guinea,GNQ,183
+Djibouti,DJI,189
+Chad,TCD,190
+Aruba,ABW,211
+Grenada,GRD,216
+Nicaragua,NIC,225
+Curacao,CUW,261
+Togo,TGO,272
+Liberia,LBR,294
+Maldives,MDV,297
+New Caledonia,NCL,301
+Gabon,GAB,303
+Niger,NER,307
+Barbados,BRB,316
+Saint Lucia,LCA,360
+Gambia,GMB,365
+Burkina Faso,BFA,375
+Congo,COG,378
+Cape Verde,CPV,401
+Guinea,GIN,440
+Malta,MLT,606
+Laos,LAO,623
+Papua New Guinea,PNG,638
+French Polynesia,PYF,641
+Belize,BLZ,650
+Qatar,QAT,670
+Lesotho,LSO,696
+Mali,MLI,722
+Bahamas,BHS,771
+Mauritius,MUS,786
+Cote d'Ivoire,CIV,794
+Tanzania,TZA,798
+Haiti,HTI,820
+Fiji,FJI,834
+Taiwan,TWN,853
+Cyprus,CYP,859
+Mauritania,MRT,979
+Luxembourg,LUX,993
+Singapore,SGP,1040
+Hong Kong,HKG,1168
+Guyana,GUY,1222
+Suriname,SUR,1317
+Democratic Republic of Congo,COD,1335
+Somalia,SOM,1348
+Madagascar,MDG,1366
+Eswatini,SWZ,1390
+Ghana,GHA,1442
+Bahrain,BHR,1455
+Rwanda,RWA,1457
+Uzbekistan,UZB,1637
+Norway,NOR,1664
+Angola,AGO,1900
+Cameroon,CMR,1923
+Senegal,SEN,1960
+Yemen,YEM,2135
+Mongolia,MNG,2171
+Mozambique,MOZ,2193
+Estonia,EST,2259
+United Arab Emirates,ARE,2301
+Finland,FIN,2381
+Kuwait,KWT,2540
+Malawi,MWI,2617
+Botswana,BWA,2619
+Montenegro,MNE,2682
+Jamaica,JAM,2814
+Kyrgyzstan,KGZ,2960
+Cambodia,KHM,3032
+Syria,SYR,3082
+Nigeria,NGA,3142
+Albania,ALB,3474
+Uganda,UGA,3588
+Trinidad and Tobago,TTO,3637
+Sudan,SDN,3910
+Zambia,ZMB,3955
+Namibia,NAM,4009
+El Salvador,SLV,4077
+Oman,OMN,4246
+Dominican Republic,DOM,4370
+China,CHN,4636
+Denmark,DNK,4687
+Latvia,LVA,5284
+Australia,AUS,5316
+Zimbabwe,ZWE,5396
+Palestine,PSE,5532
+Venezuela,VEN,5639
+Kenya,KEN,5640
+Libya,LBY,6276
+Slovenia,SVN,6327
+Belarus,BLR,6506
+Ireland,IRL,6521
+Algeria,DZA,6843
+Uruguay,URY,7005
+Ethiopia,ETH,7467
+Afghanistan,AFG,7617
+Costa Rica,CRI,8057
+Panama,PAN,8098
+South Korea,KOR,8394
+Lithuania,LTU,8418
+Armenia,ARM,8493
+Cuba,CUB,8496
+Saudi Arabia,SAU,9002
+North Macedonia,MKD,9036
+Azerbaijan,AZE,9454
+Lebanon,LBN,10115
+Israel,ISR,10237
+Honduras,HND,10778
+Moldova,MDA,11242
+Nepal,NPL,11941
+Switzerland,CHE,13119
+Jordan,JOR,13849
+Austria,AUT,14888
+Croatia,HRV,15122
+Serbia,SRB,15315
+Bosnia and Herzegovina,BIH,15484
+Morocco,MAR,16002
+Georgia,GEO,16231
+Sri Lanka,LKA,16267
+Guatemala,GTM,17018
+Sweden,SWE,17355
+Paraguay,PRY,18422
+Slovakia,SVK,18567
+Kazakhstan,KAZ,18958
+Myanmar,MMR,19375
+Portugal,PRT,21111
+Bolivia,BOL,21443
+Netherlands,NLD,21687
+Thailand,THA,23070
+Egypt,EGY,24132
+Japan,JPN,24140
+Iraq,IRQ,25013
+Greece,GRC,25972
+Tunisia,TUN,27824
+Bangladesh,BGD,29053
+Belgium,BEL,30199
+Pakistan,PAK,30237
+Malaysia,MYS,32942
+Ecuador,ECU,35249
+Bulgaria,BGR,35696
+Canada,CAN,36776
+Czechia,CZE,38741
+Vietnam,VNM,40452
+Chile,CHL,42411
+Hungary,HUN,44134
+Philippines,PHL,56504
+Romania,ROU,63668
+Turkey,TUR,94837
+South Africa,ZAF,99458
+Spain,ESP,100037
+Poland,POL,111864
+Ukraine,UKR,112459
+Germany,DEU,123311
+Argentina,ARG,126390
+Iran,IRN,137267
+France,FRA,138831
+Colombia,COL,138899
+Indonesia,IDN,149036
+Italy,ITA,155214
+United Kingdom,GBR,161848
+Peru,PER,210744
+Mexico,MEX,318531
+Russia,RUS,346197
+India,IND,514388
+Brazil,BRA,650254
+United States,USA,954518
